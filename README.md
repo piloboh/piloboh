@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/hvRJCLFzWSyR4NuK55/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2OWc0cG4xN2FxbDJmcXhydnRqM293MnhhN2NtbW44b3RxZmc3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)" width="50px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2OWc0cG4xN2FxbDJmcXhydnRqM293MnhhN2NtbW44b3RxZmc3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50px">
   <h1>¡Hola! Soy **Piloboh** 👋</h1>
   
   <p>Me encanta el viaje de transformar ideas en código funcional. ✨<br>
