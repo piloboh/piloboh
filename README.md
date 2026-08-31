@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2OWc0cG4xN2FxbDJmcXhydnRqM293MnhhN2NtbW44b3RxZmc3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="50px">
-  <h1>¡Hola! Soy **Piloboh** 👋</h1>
+  <h1>¡Hola! Soy **Manu** 👋</h1>
   
   <p>Me encanta el viaje de transformar ideas en código funcional. ✨<br>
   Soy un constructor Full Stack, apasionado por el Backend y Frontend, siempre buscando la solución más elegante (y a veces, la más divertida).</p>
