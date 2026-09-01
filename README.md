@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2OWc0cG4xN2FxbDJmcXhydnRqM293MnhhN2NtbW44b3RxZmc3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="200px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU2OWc0cG4xN2FxbDJmcXhydnRqM293MnhhN2NtbW44b3RxZmc3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="500px">
   <h1>¡Hola! 👋</h1>
   
   <p>Me encanta el viaje de transformar ideas en código funcional. ✨<br>
